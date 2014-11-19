@@ -17,8 +17,6 @@ def bmm(a,b):
             return  bmm(a,c)
     return
 
-if __name__ == '__main__':
-    print bmm(32,9)
-    print bmm(35,25)
+if __name__ == '__main__'
     print bmm(14,5)
     print bmm(8,4)
