@@ -18,5 +18,6 @@ def bmm(a,b):
     return
 
 if __name__ == '__main__'
+    yhfcuy
     print bmm(14,5)
     print bmm(8,4)
